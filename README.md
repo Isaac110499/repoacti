@@ -1,5 +1,5 @@
 # repoacti
 
-actividad para aprendiz.
+##actividad para aprender.
 
 editantndo el repoacti.
