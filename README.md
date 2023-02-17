@@ -2,4 +2,4 @@
 
 ## actividad para aprender.
 
-editantndo el repoacti.
+editantndo el repoacti
